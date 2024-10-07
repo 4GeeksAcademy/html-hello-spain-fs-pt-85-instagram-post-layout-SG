@@ -1,0 +1,37 @@
+#guardar-post{
+    margin-left: 420px;
+    margin-top: 3px;
+}
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.instagram-post{
+    background-color: white;  
+}
+#more{
+    margin-left: 526px;
+    
+}
+img{
+    width: 550px;
+}
+.icons{
+    margin-left: 10px;
+}
+.header-text{
+    margin-left: 40px;
+    margin-top: 30px;
+}
+.texto{
+    width: 300px;
+    margin-left: 30px;
+}
+.contenido-post{
+    margin-left: 20px;
+    margin: 15px;
+}
+
