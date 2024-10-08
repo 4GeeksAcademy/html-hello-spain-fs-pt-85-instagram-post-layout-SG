@@ -34,4 +34,10 @@ img{
     margin-left: 20px;
     margin: 15px;
 }
+#html-icon{
+   display: flex;
+   position: relative;
+   top: 49px;
+   left: 14px;
 
+}
