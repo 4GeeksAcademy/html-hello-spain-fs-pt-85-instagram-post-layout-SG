@@ -10,14 +10,12 @@ body{
     font-family: "Roboto", sans-serif;
     font-weight: 400;
     font-style: normal;
-    
 }
 .instagram-post{
-    background-color: white;  
+    background-color: white;
 }
 #more{
     margin-left: 526px;
-    
 }
 img{
     width: 550px;
@@ -29,10 +27,6 @@ img{
     margin-left: 40px;
     margin-top: 30px;
 }
-.texto{
-    width: 300px;
-    margin-left: 30px;
-}
 .contenido-post{
     margin-left: 20px;
     margin: 15px;
@@ -42,5 +36,23 @@ img{
    position: relative;
    top: 49px;
    left: 14px;
-
+}
+.container{
+margin-top: 20px;
+}
+.send-icon{
+    margin-left: 60px;
+    margin-top: -25px;
+}
+#guardar-post{
+    margin-left: 420px;
+    margin-top: 3px;
+}
+.texto{
+    width: 480px;
+    margin-left: 30px;
+}
+.bookmark-icon{
+    margin-left: 500px;
+    margin-top: -23px;
 }
