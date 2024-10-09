@@ -30,6 +30,7 @@ img{
 .contenido-post{
     margin-left: 10px;
     margin: 15px;
+    font-size: 17px;
 }
 #html-icon{
    display: flex;
@@ -51,6 +52,7 @@ margin-top: 20px;
 .texto{
     width: 500px;
     margin-left: 14px;
+    font-size: 17px;
 }
 #plane{
     margin-top: 5px;
